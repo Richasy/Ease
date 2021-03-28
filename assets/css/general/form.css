@@ -37,7 +37,7 @@ input[type="search"]:focus {
     border: 0;
     font-size: 20px;
     background-color: var(--primary-color);
-    border-radius: 0 4px 4px 0;
+    border-radius: 4px;
     cursor: pointer;
 }
 

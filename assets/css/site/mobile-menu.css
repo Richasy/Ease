@@ -12,6 +12,7 @@
 
 .mobile-menu .menu-item {
     margin: 0;
+    padding: 12px 0;
 }
 
 .mobile-menu .menu-item + .menu-item {
